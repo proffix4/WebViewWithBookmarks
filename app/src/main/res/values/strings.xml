@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">WebViewWithBookmarks</string>
+    <string name="app_title">WebView with Bookmarks</string>
+    <string name="app_author">by Anupam Chugh</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Настройки</string>
+    <string name="home">Home</string>
+    <string name="bookmarks">Закладки</string>
+    <string name="bookmark">ЗАКЛАДКИ</string>
+    <string name="whoops">Увы…</string>
+    <string name="there_are_no_bookmarks_at_the_moment">На данный момент нет закладок</string>
+    <string name="launch_website">Запустить просмотр</string>
+    <string name="delete_bookmark">Вы действительно хотите удалить закладку?</string>
+    <string name="yes">ДА</string>
+    <string name="no">НЕТ</string>
+    <string name="delete">УДАЛЕНИЕ</string>
+    <string name="bookmark_removed">Закладка удалена</string>
+    <string name="bookmarked">Закладка сохранена</string>
+</resources>
